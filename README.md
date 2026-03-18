@@ -9,7 +9,7 @@ Cache cleanup
 Internet connectivity check (ping + IP info)
 Timestamped log saved to ~/Downloads/synch_logs/ 
 
-Requirements 
+Requirements:
 - Debian-based Linux (Ubuntu, Mint, Pop!_OS, etc.)
 - Sudo access
 - Curl installed 
@@ -18,8 +18,8 @@ Requirements
 - cd synch-patcher
 - chmod +x patcher.sh
 
-Usage 
-./patcher.sh
+Usage:
+- `./patcher.sh`
 
 Logs are saved to: ~/Downloads/synch_logs/patcher_YYYYMMDD_HHMMSS.log 
 License 
