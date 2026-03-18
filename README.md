@@ -21,6 +21,7 @@ Requirements:
 Usage:
 - `./patcher.sh`
 
-Logs are saved to: ~/Downloads/synch_logs/patcher_YYYYMMDD_HHMMSS.log 
-License 
-MIT — see LICENSE
+- Logs are saved to: ~/Downloads/synch_logs/patcher_YYYYMMDD_HHMMSS.log
+
+License:
+- MIT — see LICENSE
