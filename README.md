@@ -1,7 +1,5 @@
-▄▖▖▖▖ ▖▄▖▖▖  ▄▖▄▖▄▖▄▖▖▖▄▖▄▖
-▚ ▌▌▛▖▌▌ ▙▌  ▙▌▌▌▐ ▌ ▙▌▙▖▙▘
-▄▌▐ ▌▝▌▙▖▌▌  ▌ ▛▌▐ ▙▖▌▌▙▖▌▌
-                           
+<img width="1874" height="367" alt="ascii-art-text" src="https://github.com/user-attachments/assets/01e69aa2-7595-47cd-9bff-709961558f14" />
+
 A simple Bash script to keep your Linux system up to date — updates repositories, upgrades packages, removes bloat, cleans cache, and checks
 internet connectivity. Logs everything automatically. 
  Features 
