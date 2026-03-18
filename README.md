@@ -10,13 +10,13 @@ Internet connectivity check (ping + IP info)
 Timestamped log saved to ~/Downloads/synch_logs/ 
 
 Requirements 
-Debian-based Linux (Ubuntu, Mint, Pop!_OS, etc.)
-Sudo access
-Curl installed 
-Installation 
-git clone https://github.com/RooterX/Patcher.git
-cd synch-patcher
-chmod +x patcher.sh
+- Debian-based Linux (Ubuntu, Mint, Pop!_OS, etc.)
+- Sudo access
+- Curl installed 
+- Installation 
+- git clone https://github.com/RooterX/Patcher.git
+- cd synch-patcher
+- chmod +x patcher.sh
 
 Usage 
 ./patcher.sh
