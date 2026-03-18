@@ -56,4 +56,4 @@ else
 fi
 
 log ""
-log "GOTCHA! Check your new log: $LOG_FILE"
+log "GOTCHA! Check new log: $LOG_FILE"
